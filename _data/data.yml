@@ -7,20 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Kirsten Gotting
+    tagline: PhD Candidate
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: gotting@wisc.edu
+    website: kirstengotting.com #do not add http://
+    linkedin: kirstengotting
+    github: kirstengott
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@KirstenGotting'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,35 +28,48 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
       - idiom: Spanish
-        level: Professional
+        level: Conversational
 
     interests:
-      - item: Climbing
+      - item: Justice in STEM
         link:
 
-      - item: Snowboarding
+      - item: Trait Evolution and Diversification
         link:
 
-      - item: Cooking
+      - item: Mycology and Bacteriology
         link:
+
+      - item: Symbiosis and Adaptation
+        link:
+
+      - item: History of Genetics
+        link:
+
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a PhD candidate at the University of Wisconsin Madison in the
+      Department of Bacteriology and the Laboratory of Genetics. Before joining
+      the Genetics Training Program at the UW-Madison, I served as a
+      bioinformaticist in the Sánchez lab at The Stowers Institute for Medical
+      Research. During this time, I bioinformatically assisted researchers with
+      their interrogations of development and regeneration in planarians,
+      killifish, ctenophores, and apple snails. The broad similarities in
+      development and regeneration across different taxa captivated me and
+      instilled in me a fascination for evolutionary biology. This drove me to
+      pursue a graduate education in evolutionary biology and join Cameron
+      Currie’s team to study host-parasite interactions and evolution. My
+      research leverages the fungus-growing ant-microbe model symbiosis to study
+      long-term co-evolution between the parasitic symbiont Escovopsis and the
+      defensive adaptations developed by fungus-growing ant hosts to protect
+      their fungus garden from this parasite.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Genetics
+      university: University of Wisconsin Madison
+      time: 2017 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,9 +78,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: MSc in Genomics and Bioinformatics
+      university: University of Oregon
+      time: 2013 - 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,6 +89,18 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+
+      - degree: BA in Biology
+          university: University of Oregon
+          time: 2009 - 2013
+          details: |
+            Describe your study here lorem ipsum dolor sit amet, consectetuer
+            adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+            sociis natoque penatibus et magnis dis parturient montes, nascetur
+            ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+            pretium quis, sem.
+              - Bullet point
+              - Bullet point
 experiences:
     - role: Lead Developer
       time: 2015 - Present
