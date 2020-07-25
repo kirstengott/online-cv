@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Kirsten Gotting
     tagline: PhD Candidate
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: picture.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: gotting@wisc.edu
@@ -66,6 +66,7 @@ career-profile:
       long-term co-evolution between the parasitic symbiont Escovopsis and the
       defensive adaptations developed by fungus-growing ant hosts to protect
       their fungus garden from this parasite.
+
 education:
     - degree: MSc in Genetics
       university: University of Wisconsin Madison
@@ -78,6 +79,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+
     - degree: MSc in Genomics and Bioinformatics
       university: University of Oregon
       time: 2013 - 2014
@@ -90,10 +92,10 @@ education:
           - Bullet point
           - Bullet point
 
-      - degree: BA in Biology
-          university: University of Oregon
-          time: 2009 - 2013
-          details: |
+    - degree: BA in Biology
+      university: University of Oregon
+      time: 2009 - 2013
+      details: |
             Describe your study here lorem ipsum dolor sit amet, consectetuer
             adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
             sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -102,113 +104,131 @@ education:
               - Bullet point
               - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    # - role: Lead Developer
+    #   time: 2015 - Present
+    #   company: Startup Hubs, San Francisco
+    #   details: |
+    #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    #     Cum sociis natoque penatibus et magnis dis parturient montes,
+    #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+    #     pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+    #     enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+    #     error sit voluptatem accusantium doloremque laudantium, totam rem
+    #     aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+    #     architecto beatae vitae dicta sunt explicabo.
+    #       - Bullet point
+    #       - Bullet point
+    #
+    - role: Graduate Student
+      time: 2017 - Present
+      company: University of Wisconsin Madison
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Sequenced, assembled and annotated 18 genomes of *Escovopsis* for
+        comparative genomics.
+        - Performed field work to obtain increased sampling of *Escovopsis*
+
+    - role: Bioinformaticist
+      time: 2014 - 2017
+      company: The Stowers Institute for Medical Research, Sánchez Lab
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Collaborated with scientists to analyze and interpret next generation
+        sequencing data.
+
+    - role: Line/Lab Assistant
+      time: 2010 - 2013
+      company: Zebrafish International Resource Center
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Worked to maintain and propagate zebrafish lines for shipping to
+          research labs.
+
+    # - role: Undergraduate Research Assistant
+    #   time: 2012 - 2012
+    #   company: University of Oregon, Selker Lab
+    #   details: |
+    #   - Created Neurospora crassa mutants as part of a forward genetics
+    #    screen selecting for defects in methylation.
+
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro:
     assignments:
-      - title: Velocity
+      - title: Genomic diversification of the parasite Escovopsis across the evolutionary history of the fungus-growing ant-microbe symbiosis
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline:
 
-      - title: DevStudio
+      - title: Identification of regeneration specific genes in Nothobranchius furzeri
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline:
 
-      - title: Tempo
+      - title: Characterization of Ptychodera flava head regeneration after amputation
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline:
 
-      - title: Atom
+      - title: Transcriptomic examination of Mnemiopsis leidyi development
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline:
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: "Bacteria contribute to plant secondary compound degradation in a generalist herbivore system"
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Francoeur, C. B., Khadempour, L., Moreira-Soto, R.D., Gotting, K., Book, A.J., Pinto-Tomás, A.A., Keefover-Ring, K., and Currie, C.R.
+        conference: bioRxiv (2020) 865212. In Review
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Selection and characterization of mutants defective in DNA methylation in Neurospora crassa"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Klocko, A.D., Summers, C.A., Glover, M.L., Parrish, R., Storck, W.K., McNaught, K.J., Moss, N., Gotting, K., Stewart, A., Marrison, A.M., Payne, L., Hatakeyama, S., Selker, E.U.
+        conference: Genetics (2020). Accepted with Revisions
 
-      - title: A syntax directed compiler for Algol 60
+      - title: "Changes in injury-responsive enhancers shape regenerative capacities in vertebrates."
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Wang, W., Hu, C., Zeng, A., Gibbon, D., Hu, D., Gotting, K., Granillo Ortega, A., Wang, Y., Robb, S., Schnittker, R., Zhang, S., Alegre, D., Li, H., Ross, E., Zhang, N., Brunet, A., Sánchez Alvarado A.
+        conference: Science. Accepted
+
+      - title: "A nuclear hormone receptor and lipid metabolism axis are required for the maintenance and regeneration of reproductive organs."
+        link: '#'
+        authors: Zhang S., Guo L., Guerrero-Hernández C., Ross E.J., Gotting, K., McKinney S.A., Wang W., Xiang Y., Hawley S.R., and Sánchez Alvarado A.
+        conference: bioRxiv (279364).
+
+      - title: ”Embryonic origin of adult stem cells required for tissue homeostasis and regeneration.”
+        link: '#'
+        authors: Davies, E.L., Lei K., Seidel C.W., Kroesen A.E., McKinney S.A., Guo L., Robb S.M.C., Ross E.J., Gotting, K., and Sánchez Alvarado A.
+        conference: eLife 6 (e21052).
+
+      - title: ”Egf Signaling Directs Neoblast Repopulation by Regulating Asymmetric Cell Division in Planarians.”
+        link: '#'
+        authors: Lei, K., Vu H.T., Mohan R.D., McKinney S.A., Seidel C.W., Alexander R., Gotting, K., Workman J.L., and Sánchez Alvarado, A.
+        conference: Developmental Cell 38, no. 4 (413-429).
+
+      - title: ”SmedGD 2.0 The Schmidtea mediterranea genome database.”
+        link: '#'
+        authors: Robb, S., Gotting, K., Ross, E.J., and Sánchez Alvarado, A.
+        conference: genesis 53, no. 8 (535-546).
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: R
         level: 98%
 
-      - name: Angular
+      - name: BASH
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: AWK
+        level: 50%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Linux/Unix
+        level: 98%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Inkscape
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
